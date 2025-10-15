@@ -9433,6 +9433,7 @@
 0.0.0.0 aidc.barcodesgroup.com
 0.0.0.0 aiddut.particleformen.com
 0.0.0.0 aider-res.meizu.com
+0.0.0.0 aidigua.com
 0.0.0.0 aidsatsoung.net
 0.0.0.0 aidsgeodist.com
 0.0.0.0 aidsro.ostin.com
@@ -17425,6 +17426,7 @@
 0.0.0.0 blogad01.myweb.hinet.net
 0.0.0.0 blogad02.myweb.hinet.net
 0.0.0.0 blogads.com
+0.0.0.0 blogamethu.com
 0.0.0.0 blogcatalog.com
 0.0.0.0 blogclans.com
 0.0.0.0 blogcounter.com
@@ -23323,6 +23325,7 @@
 0.0.0.0 comfortablepossibilitycarlos.com
 0.0.0.0 comfortclick.co.uk
 0.0.0.0 comfortregionalmystery.com
+0.0.0.0 comgnnyx.com
 0.0.0.0 comihon.com
 0.0.0.0 comilar-efferiff.icu
 0.0.0.0 cominolovepot.rest
@@ -24996,6 +24999,7 @@
 0.0.0.0 creative.xlviiirdr.com
 0.0.0.0 creative.xlviirdr.com
 0.0.0.0 creative.xlvirdr.com
+0.0.0.0 creative.xtendmedia.com
 0.0.0.0 creative.xxxiijmp.com
 0.0.0.0 creative.xxxijmp.com
 0.0.0.0 creative.xxxjmp.com
@@ -52052,6 +52056,7 @@
 0.0.0.0 js.fc090.com
 0.0.0.0 js.feitian001.com
 0.0.0.0 js.fengniao.com
+0.0.0.0 js.fhxiaoshuo.com
 0.0.0.0 js.firefang.cn
 0.0.0.0 js.flpjc.com
 0.0.0.0 js.gdyjs.com
@@ -52418,6 +52423,7 @@
 0.0.0.0 juggo.site
 0.0.0.0 jugularmatches.help
 0.0.0.0 juhuisuan.com
+0.0.0.0 juiceads.net
 0.0.0.0 juiceadv.com
 0.0.0.0 juiceadv.net
 0.0.0.0 juicebard.com
@@ -69424,6 +69430,7 @@
 0.0.0.0 nshvhfw.cn
 0.0.0.0 nshyoidan.shop
 0.0.0.0 nsijrtggg.com
+0.0.0.0 nsimg.net
 0.0.0.0 nsjdpykebhf.com
 0.0.0.0 nskpofnthtjgu.net
 0.0.0.0 nskyfqigltino.space
@@ -70822,6 +70829,7 @@
 0.0.0.0 okmgy.cn
 0.0.0.0 okmhmkjnm.com
 0.0.0.0 okmhnd.com
+0.0.0.0 okmuxdbq.com
 0.0.0.0 okmvameudiajjpo.com
 0.0.0.0 okmwfq.xyz
 0.0.0.0 oknoplastik.sk
@@ -93419,6 +93427,7 @@
 0.0.0.0 ssl.o.vitals.com
 0.0.0.0 ssl.o.webmdrx.com
 0.0.0.0 ssl.sciencechannel.com
+0.0.0.0 ssl.trace.zhiziyun.com
 0.0.0.0 ssl.ymapp.com
 0.0.0.0 ssl.youkag.com
 0.0.0.0 ssl.yx4818.cn
