@@ -1,5 +1,5 @@
 ! Unified Adblock list for AdGuard Home (DNS)
-! Generated at: 2025-10-15 22:37:02 UTC
+! Generated at: 2025-10-15 23:13:54 UTC
 ! Sources:
 !  - https://anti-ad.net/adguard.txt
 !  - https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
@@ -14,6 +14,7 @@
 !  - https://gcore.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/minority-mv.txt
 !  - https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt
 !  - https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt
+!  - https://raw.githubusercontent.com/Piggy-Cat-bit-shadow/adguard-rule-collection/main/custom_whitelist.txt
 ! Notes:
 ! - Cosmetic rules (##, #@#) removed for DNS use.
 ! - Whitelist (@@) has higher priority than block/dnsrewrite/dnstype.
