@@ -1,6 +1,7 @@
 # 0.0.0.0 hosts merged
 0.0.0.0 -doubleclick.js
 0.0.0.0 -doubleclick.min.js
+0.0.0.0 -gdpr-min.js
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0-02.net
 0.0.0.0 0.myikas.com
@@ -14577,6 +14578,7 @@
 0.0.0.0 api.bluerunningshadow.com
 0.0.0.0 api.boclinkads.com
 0.0.0.0 api.branch.io
+0.0.0.0 api.brookiebot.com
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.bs.zui.com
 0.0.0.0 api.bugly.qq.com
@@ -14593,6 +14595,8 @@
 0.0.0.0 api.cmt.mob.com
 0.0.0.0 api.cn.miaozhen.com
 0.0.0.0 api.collect.data.intl.miui.com
+0.0.0.0 api.cookielaw-script.it
+0.0.0.0 api.cookielaw.eu
 0.0.0.0 api.coolguang.com
 0.0.0.0 api.country.is
 0.0.0.0 api.csxsyp.cn
@@ -15240,6 +15244,7 @@
 0.0.0.0 app.engineering.sae.org
 0.0.0.0 app.entertainment.comcast-spectacor.com
 0.0.0.0 app.entwickler.de
+0.0.0.0 app.eprivacy-keeper.eu
 0.0.0.0 app.etc.se
 0.0.0.0 app.etcel.se
 0.0.0.0 app.evntly.com
@@ -21606,6 +21611,7 @@
 0.0.0.0 bootpreload.uve.weibo.com
 0.0.0.0 bootrealtime.uve.weibo.com
 0.0.0.0 bootscritp.com
+0.0.0.0 bootstrap-cookie-consent.js
 0.0.0.0 bootstrap-framework.org
 0.0.0.0 bootstraplugin.com
 0.0.0.0 bootstron.com
@@ -22364,6 +22370,7 @@
 0.0.0.0 browse-boost.com
 0.0.0.0 browsecoherentunrefined.com
 0.0.0.0 browsekeeper.com
+0.0.0.0 browser-consent-front.coco.s-cloud.fi
 0.0.0.0 browser-intake-datadoghq.com
 0.0.0.0 browser-intake-datadoghq.eu
 0.0.0.0 browser-statistik.de
@@ -22456,6 +22463,7 @@
 0.0.0.0 brzvtueeyyqdo.space
 0.0.0.0 bs-adaptive.pull.yximgs.com
 0.0.0.0 bs-adserver.b-cdn.net
+0.0.0.0 bs-cookie.staging.springbok.agency
 0.0.0.0 bs-pro-origin-pull.kwai.net.iberostar.com
 0.0.0.0 bs.5442.com
 0.0.0.0 bs.csshq.com.cn
@@ -23658,6 +23666,7 @@
 0.0.0.0 cache.betweendigital.com
 0.0.0.0 cache.celtra.com
 0.0.0.0 cache.cnzz.com
+0.0.0.0 cache.consentframework.com
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 cache.gaode.com
 0.0.0.0 cache.myth.dev
@@ -24483,6 +24492,7 @@
 0.0.0.0 cc.calltracking.ru
 0.0.0.0 cc.conforama.es
 0.0.0.0 cc.conforama.pt
+0.0.0.0 cc.controlcookies.com
 0.0.0.0 cc.dace.hupu.com
 0.0.0.0 cc.dalten.cz
 0.0.0.0 cc.diewebsitemacherei.de
@@ -24563,9 +24573,12 @@
 0.0.0.0 cclimif.top
 0.0.0.0 cclink.carfax.com
 0.0.0.0 ccluukrajdnyj.space
+0.0.0.0 ccm.npo.nl
 0.0.0.0 ccm1.dlr.de
 0.0.0.0 ccm19.de
+0.0.0.0 ccm19.dsg-schweiz.ch
 0.0.0.0 ccm19.mindpark.at
+0.0.0.0 ccm19.vucx.de
 0.0.0.0 ccm19boros.de
 0.0.0.0 ccmd.coveredca.com
 0.0.0.0 ccmiocw.com
@@ -24767,6 +24780,7 @@
 0.0.0.0 cdn.conservativestar.com
 0.0.0.0 cdn.cooguo.com
 0.0.0.0 cdn.cookie.pii.ai
+0.0.0.0 cdn.cookiecode.nl
 0.0.0.0 cdn.cpex.cz
 0.0.0.0 cdn.creative-bars1.com
 0.0.0.0 cdn.creative.medialytics.com
@@ -24860,6 +24874,7 @@
 0.0.0.0 cdn.oas-eu1.adnxs.com
 0.0.0.0 cdn.odoscope.cloud
 0.0.0.0 cdn.oneway.mobi
+0.0.0.0 cdn.opencmp.net
 0.0.0.0 cdn.optaim.com
 0.0.0.0 cdn.optmn.cloud
 0.0.0.0 cdn.optoutadvertising.com
@@ -24881,6 +24896,7 @@
 0.0.0.0 cdn.qgraph.io
 0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdn.read.html5.qq.com
+0.0.0.0 cdn.realpeoplemedia.co.uk
 0.0.0.0 cdn.responsiq.com
 0.0.0.0 cdn.revive-adserver.net
 0.0.0.0 cdn.reviveservers.com
@@ -24912,10 +24928,12 @@
 0.0.0.0 cdn.tinglian.com
 0.0.0.0 cdn.track.olx.com.br
 0.0.0.0 cdn.trafficforce.com
+0.0.0.0 cdn.truendo.com
 0.0.0.0 cdn.uaa010.com
 0.0.0.0 cdn.unibotscdn.com
 0.0.0.0 cdn.unityads.unity3d.com
 0.0.0.0 cdn.usefathom.com
+0.0.0.0 cdn.userdatatrust.com
 0.0.0.0 cdn.vamaker.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn.viowrel.com
@@ -24992,6 +25010,7 @@
 0.0.0.0 cdnbit.com
 0.0.0.0 cdnboostcache.com
 0.0.0.0 cdncloud.asia
+0.0.0.0 cdncmp.richaudience.com
 0.0.0.0 cdnfimgs.com
 0.0.0.0 cdnflex.me
 0.0.0.0 cdnfreemalva.com
@@ -25843,6 +25862,7 @@
 0.0.0.0 choconart.com
 0.0.0.0 choice.microsoft.com
 0.0.0.0 choice.microsoft.com.nsatc.net
+0.0.0.0 choices.consentframework.com
 0.0.0.0 choices.truste.com
 0.0.0.0 choirssniper.qpon
 0.0.0.0 chokcloyne.shop
@@ -27201,9 +27221,12 @@
 0.0.0.0 cmon.congress.gov
 0.0.0.0 cmonitor.iqiyi.com
 0.0.0.0 cmop.mgtv.com
+0.0.0.0 cmp-loader.choice.faktor.io
 0.0.0.0 cmp-static.nature.com
 0.0.0.0 cmp.cdn.thesun.co.uk
 0.0.0.0 cmp.cdn.thesun.ie
+0.0.0.0 cmp.cdntrf.com
+0.0.0.0 cmp.cls.pm
 0.0.0.0 cmp.computerworld.pl
 0.0.0.0 cmp.courrierinternational.com
 0.0.0.0 cmp.datasign.co
@@ -27223,12 +27246,16 @@
 0.0.0.0 cmp.lavie.fr
 0.0.0.0 cmp.lemonde.fr
 0.0.0.0 cmp.lepoint.fr
+0.0.0.0 cmp.md-nx.com
+0.0.0.0 cmp.mediavine.com
 0.0.0.0 cmp.meteored.com
 0.0.0.0 cmp.nature.com
 0.0.0.0 cmp.netzwelt.de
 0.0.0.0 cmp.nouvelobs.com
 0.0.0.0 cmp.onepeloton.com
+0.0.0.0 cmp.optad360.io
 0.0.0.0 cmp.osano.com
+0.0.0.0 cmp.pafo.fairbung.com
 0.0.0.0 cmp.parkers.co.uk
 0.0.0.0 cmp.pcwelt.de
 0.0.0.0 cmp.pcworld.pl
@@ -27631,6 +27658,7 @@
 0.0.0.0 cohesionapps.com
 0.0.0.0 cohogsflyball.shop
 0.0.0.0 cohostsguilfat.com
+0.0.0.0 cohthafjmvx.com
 0.0.0.0 cohtsfkwaa.com
 0.0.0.0 coifedseemed.life
 0.0.0.0 coifstarheel.shop
@@ -28334,6 +28362,7 @@
 0.0.0.0 connect.cont.hcahealthcare.com
 0.0.0.0 connect.content-hub.netapp.com
 0.0.0.0 connect.customers.netapp.com
+0.0.0.0 connect.danone.es
 0.0.0.0 connect.dcblox.com
 0.0.0.0 connect.dexterchaney.com
 0.0.0.0 connect.digi.com
@@ -28479,12 +28508,16 @@
 0.0.0.0 consensu.io
 0.0.0.0 consensu.org
 0.0.0.0 consensusarticles.com
+0.0.0.0 consent-manager.confirmic.com
+0.0.0.0 consent-manager.metomic.io
 0.0.0.0 consent-manager.thenextweb.com
+0.0.0.0 consent-notice.magix.com
 0.0.0.0 consent-wrapper.jameda.de
 0.0.0.0 consent.23g.io
 0.0.0.0 consent.berliner-kurier.de
 0.0.0.0 consent.canalboat.co.uk
 0.0.0.0 consent.clientemais.paodeacucar.com
+0.0.0.0 consent.comply-app.com
 0.0.0.0 consent.dadoslegais.com
 0.0.0.0 consent.dermogrup.com
 0.0.0.0 consent.digiapi.com
@@ -28499,6 +28532,7 @@
 0.0.0.0 consent.pdf24.org
 0.0.0.0 consent.prismamedia.com
 0.0.0.0 consent.prointernet.com
+0.0.0.0 consent.scm-verlagsgruppe.de
 0.0.0.0 consent.shutterfly.com
 0.0.0.0 consent.standardadmin.org
 0.0.0.0 consent.stuff.tv
@@ -28506,6 +28540,7 @@
 0.0.0.0 consent.thecountrysmallholder.com
 0.0.0.0 consent.thegreatoutdoorsmag.com
 0.0.0.0 consent.themeteocompany.com
+0.0.0.0 consent.theneweuropean.co.uk
 0.0.0.0 consent.triad.sk
 0.0.0.0 consent.truste.com
 0.0.0.0 consent.werner-mertz.de
@@ -28516,6 +28551,7 @@
 0.0.0.0 consentik.com
 0.0.0.0 consentmanager.net
 0.0.0.0 consentmo-geo.com
+0.0.0.0 consentserve.mgr.consensu.org
 0.0.0.0 consenttool.haendlerbund.de
 0.0.0.0 consequentlyvisithector.com
 0.0.0.0 conservation277.fun
@@ -28867,14 +28903,18 @@
 0.0.0.0 cookeryshed.com
 0.0.0.0 cookevegas.com
 0.0.0.0 cookie-accept.com
+0.0.0.0 cookie-bar.salessquad.co.uk
+0.0.0.0 cookie-consent.es5.min.js
 0.0.0.0 cookie-consent.etisalat.ae
 0.0.0.0 cookie-consent.festo.com
 0.0.0.0 cookie-guard-erdee.ey.r.appspot.com
 0.0.0.0 cookie-law-enforcement-qq.xyz
 0.0.0.0 cookie-lista.cz
 0.0.0.0 cookie-script.com
+0.0.0.0 cookie-use-policy.js
 0.0.0.0 cookie.aerostatonet.it
 0.0.0.0 cookie.amerigas.com
+0.0.0.0 cookie.consent.is
 0.0.0.0 cookie.consents.app
 0.0.0.0 cookie.cynch.com
 0.0.0.0 cookie.gazeta.pl
@@ -28886,35 +28926,51 @@
 0.0.0.0 cookie.sync.usonar.jp
 0.0.0.0 cookie.vrt.be
 0.0.0.0 cookie.wieni.be
+0.0.0.0 cookie_acceptance_modal.js
+0.0.0.0 cookie_choices.min.js
+0.0.0.0 cookie_law.js
+0.0.0.0 cookie_meldung.js
 0.0.0.0 cookieapi.incomit.dk
 0.0.0.0 cookieapi2.incomit.dk
 0.0.0.0 cookieassistant.com
 0.0.0.0 cookieban.com
 0.0.0.0 cookiebanner.gepruefter-webshop.de
+0.0.0.0 cookiebanner.min.js
+0.0.0.0 cookiebar-init.js
 0.0.0.0 cookiebot.com
 0.0.0.0 cookiebot.eu
 0.0.0.0 cookiebot.inkarnate.com
 0.0.0.0 cookiebox.ro
 0.0.0.0 cookiechoices.org
+0.0.0.0 cookieconsent.blob.core.windows.net
 0.0.0.0 cookieconsent.com
 0.0.0.0 cookieconsent.dfikir.com
+0.0.0.0 cookieconsent.syreta.com
+0.0.0.0 cookieconsentnotice.js
 0.0.0.0 cookiecontrol.bleau.dk
+0.0.0.0 cookiedisclaimer.js
 0.0.0.0 cookiefirst.com
 0.0.0.0 cookieform.pl
 0.0.0.0 cookiehub.eu
+0.0.0.0 cookieinfo.js
 0.0.0.0 cookieinformation.com
 0.0.0.0 cookieinfoscript.com
 0.0.0.0 cookiejar.atea.no
 0.0.0.0 cookielab.dk
+0.0.0.0 cookielaw.emea.fcagroup.com
 0.0.0.0 cookielawblog.wordpress.com
+0.0.0.0 cookielawscript.js
 0.0.0.0 cookieless-data.com
 0.0.0.0 cookiemanager.onm.de
 0.0.0.0 cookiemanager1.contentforces.com
 0.0.0.0 cookiemapping.cn.miaozhen.com
 0.0.0.0 cookiemapping.wrating.com
 0.0.0.0 cookiemon-analytics.azurewebsites.net
+0.0.0.0 cookiemon.atcom.gr
 0.0.0.0 cookiemonster.is
+0.0.0.0 cookiepolicy-client.js
 0.0.0.0 cookiepop.app
+0.0.0.0 cookieprivacygenerator.js
 0.0.0.0 cookieq.com
 0.0.0.0 cookiereports.com
 0.0.0.0 cookierulez.sqrt64.it
@@ -28922,6 +28978,7 @@
 0.0.0.0 cookies-sfs.siemens.com
 0.0.0.0 cookies-spravne.cz
 0.0.0.0 cookies.ae-webdesign.com
+0.0.0.0 cookies.algo.at
 0.0.0.0 cookies.bakehouse.at
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 cookies.doutoresdaweb.com.br
@@ -28952,6 +29009,7 @@
 0.0.0.0 cookies.teraz.sk
 0.0.0.0 cookies.unidadeditorial.es
 0.0.0.0 cookies.wpcarey.com
+0.0.0.0 cookiesamtykke.js
 0.0.0.0 cookiescript.cloud.provincia.tn.it
 0.0.0.0 cookiescript.info
 0.0.0.0 cookiesmaster.pl
@@ -28961,6 +29019,10 @@
 0.0.0.0 cookietagmanager.net
 0.0.0.0 cookietracking.eatonpowersource.com
 0.0.0.0 cookietractor.com
+0.0.0.0 cookiewall.es5.min.js
+0.0.0.0 cookiewarning.js
+0.0.0.0 cookiewarning2.js
+0.0.0.0 cookiewarning4.js
 0.0.0.0 cookiewidget.eu
 0.0.0.0 cookiex.ngd.yahoo.com
 0.0.0.0 cooking-app.lkk.com
@@ -29979,6 +30041,7 @@
 0.0.0.0 criticaltriggerweather.com
 0.0.0.0 critictruck.com
 0.0.0.0 crittereasilyhangover.com
+0.0.0.0 crizzelbelout.com
 0.0.0.0 crjpgate.com
 0.0.0.0 crjpingate.com
 0.0.0.0 crjshop.com
@@ -32647,6 +32710,7 @@
 0.0.0.0 dampratio.pro
 0.0.0.0 damselfly.vegenook.com
 0.0.0.0 damuzhi118.com
+0.0.0.0 dan.mgr.consensu.org
 0.0.0.0 dana8herb.com
 0.0.0.0 danaidehomes.com
 0.0.0.0 danaitebijous.world
@@ -34482,6 +34546,7 @@
 0.0.0.0 detentsclonks.com
 0.0.0.0 deteql.net
 0.0.0.0 deteriorateensuedlaptop.com
+0.0.0.0 determinator.service-cmp.com
 0.0.0.0 determined-tennis.pro
 0.0.0.0 determinedangle.com
 0.0.0.0 determinedsock.com
@@ -35088,6 +35153,7 @@
 0.0.0.0 digitalworkplace.ricoh.fr
 0.0.0.0 digithalo.com
 0.0.0.0 digitru.st
+0.0.0.0 digitrust.mgr.consensu.org
 0.0.0.0 dignityhourmulticultural.com
 0.0.0.0 dignow.org
 0.0.0.0 digoxinbluming.digital
@@ -36271,6 +36337,7 @@
 0.0.0.0 dogfalcons.com
 0.0.0.0 dogfallkeach.qpon
 0.0.0.0 doggieshome.com
+0.0.0.0 doggrellowder.com
 0.0.0.0 doghalf.com
 0.0.0.0 dogheegnaunim.net
 0.0.0.0 doglegtoeing.shop
@@ -36792,6 +36859,7 @@
 0.0.0.0 dqif5bl25s0bf.cloudfront.net
 0.0.0.0 dqjojx.xyz
 0.0.0.0 dqjrxj.icu
+0.0.0.0 dqnajb.icu
 0.0.0.0 dqntra.home-to-go.ca
 0.0.0.0 dqq.lnfund.org.cn
 0.0.0.0 dqqdbvsqatomy.space
@@ -41270,6 +41338,7 @@
 0.0.0.0 etalageunwept.qpon
 0.0.0.0 etallkiq.com
 0.0.0.0 etapeguimpe.shop
+0.0.0.0 etarget.mgr.consensu.org
 0.0.0.0 etargetnet.com
 0.0.0.0 etavlufwkgqynwx.com
 0.0.0.0 etbh.cn
@@ -41411,6 +41480,7 @@
 0.0.0.0 eu.viatrisconnect.com
 0.0.0.0 eu.vortex-win.data.microsft.com
 0.0.0.0 eu.vortex-win.data.microsoft.com
+0.0.0.0 eu_cookie_banner.js
 0.0.0.0 euadoroisso.com.br
 0.0.0.0 euads-o.api.leiniao.com
 0.0.0.0 euadsapi.manhuaren.com
@@ -41498,12 +41568,14 @@
 0.0.0.0 euphuesmasses.com
 0.0.0.0 eupornstar.info
 0.0.0.0 euqsfp.belluna.jp
+0.0.0.0 eurail_responsive_law_cookie_banner.js
 0.0.0.0 eureka-app.eurekaplatform.org
 0.0.0.0 eurekster.com
 0.0.0.0 euresdw.top
 0.0.0.0 euro-pr.eu
 0.0.0.0 euro4ads.de
 0.0.0.0 euroads.dk
+0.0.0.0 eurocookie.galilcloud.wixapps.net
 0.0.0.0 eurocounter.com
 0.0.0.0 eurodomo.cn
 0.0.0.0 eurogamer-uk.eurogamer.net
@@ -45519,6 +45591,7 @@
 0.0.0.0 functorsarigue.life
 0.0.0.0 fund.sina.com.cn
 0.0.0.0 fundatingquest.fun
+0.0.0.0 fundingchoices.google.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 fundingsidenote.com
 0.0.0.0 fundraising.centuryresources.com
@@ -46541,6 +46614,7 @@
 0.0.0.0 gdonqrdtzhvfq.space
 0.0.0.0 gdphhl.elite-auto.fr
 0.0.0.0 gdpj8lm2t.com
+0.0.0.0 gdpr-banner.awsmpsa.com
 0.0.0.0 gdpr-legal-cookie.beeclever.app
 0.0.0.0 gdpr-legal-cookie.com
 0.0.0.0 gdpr-service.herokuapp.com
@@ -46670,6 +46744,7 @@
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 geminibugs.com
 0.0.0.0 gemius.hu
+0.0.0.0 gemius.mgr.consensu.org
 0.0.0.0 gemius.pl
 0.0.0.0 gemjtemdi.com
 0.0.0.0 gemlikevarios.com
@@ -51361,6 +51436,7 @@
 0.0.0.0 hhppyt.com
 0.0.0.0 hhppzkhurf.com
 0.0.0.0 hhqda.pop.t5yx.cn
+0.0.0.0 hhr3ybjsoy.com
 0.0.0.0 hhsp2.com
 0.0.0.0 hht8m6w8mnug.quine.sh
 0.0.0.0 hhttm.top
@@ -54198,6 +54274,7 @@
 0.0.0.0 ikppduisfudho.online
 0.0.0.0 ikqgzcculojvu.space
 0.0.0.0 ikqhdccrihdyr.online
+0.0.0.0 ikqyazeadzqvo.space
 0.0.0.0 iktytiwqpmmur.com
 0.0.0.0 iktzrzjpugczl.website
 0.0.0.0 ikuailian.com
@@ -56373,6 +56450,7 @@
 0.0.0.0 inform.liilix.com
 0.0.0.0 inform.milestonegroup.com
 0.0.0.0 inform.milestonegroup.com.au
+0.0.0.0 informacja_cookies.js
 0.0.0.0 informalbook.com
 0.0.0.0 informalsection.com
 0.0.0.0 informatics.filamentcolors.xyz
@@ -56396,6 +56474,7 @@
 0.0.0.0 informsuppercocktail.com
 0.0.0.0 informvisitors.com
 0.0.0.0 informz.net
+0.0.0.0 inforpl.mgr.consensu.org
 0.0.0.0 infos-experts.adp.com
 0.0.0.0 infos.anz-originator.com.au
 0.0.0.0 infos.anz.com
@@ -59267,6 +59346,7 @@
 0.0.0.0 joqowqyaarlrz.top
 0.0.0.0 joqowqyaayvwl.top
 0.0.0.0 joqowqymkrbrq.top
+0.0.0.0 joqowqymkrbww.top
 0.0.0.0 joqowqymkrywy.top
 0.0.0.0 joramsvenosal.digital
 0.0.0.0 jordan.qunis.ru
@@ -59430,7 +59510,12 @@
 0.0.0.0 jqtree.com
 0.0.0.0 jqttlnzaudopg.website
 0.0.0.0 jquery-cdn.download
+0.0.0.0 jquery-easy-eu-cookie-law.js
+0.0.0.0 jquery.cookie.policy.min.js
+0.0.0.0 jquery.cookiepol.js
 0.0.0.0 jquery.envi-met.com.cn
+0.0.0.0 jquery.eu-cookie-consent.min.js
+0.0.0.0 jquery.smartcookie.min.js
 0.0.0.0 jqueryoi.com
 0.0.0.0 jqueryserve.org
 0.0.0.0 jqueryserver.com
@@ -59556,6 +59641,7 @@
 0.0.0.0 js.cncrk.com
 0.0.0.0 js.cnmo.com
 0.0.0.0 js.cnscdj.com
+0.0.0.0 js.cookietagmanager.net
 0.0.0.0 js.ctags.cn
 0.0.0.0 js.daxueshengqiandai.com
 0.0.0.0 js.dhsz.cn
@@ -66814,6 +66900,7 @@
 0.0.0.0 lvojjayaaokbq.top
 0.0.0.0 lvojjayaaoqym.top
 0.0.0.0 lvojjaymeoyyk.top
+0.0.0.0 lvojjaymerabr.top
 0.0.0.0 lvqg.cn
 0.0.0.0 lvqo.cn
 0.0.0.0 lvrq.cn
@@ -76416,6 +76503,7 @@
 0.0.0.0 nankuan.xin
 0.0.0.0 nannieslamaic.com
 0.0.0.0 nannyirrationalacquainted.com
+0.0.0.0 nanogdpr.min.js
 0.0.0.0 nanoidcharas.click
 0.0.0.0 nanosecnobbily.click
 0.0.0.0 nanostats.nanopress.it
@@ -76705,6 +76793,7 @@
 0.0.0.0 ndingcouncerne.org
 0.0.0.0 ndirection.kr
 0.0.0.0 nditingdecord.com
+0.0.0.0 ndja.cn
 0.0.0.0 ndlesexwrecko.org
 0.0.0.0 ndlvihqwpaaup.space
 0.0.0.0 ndlwtl.icu
@@ -78133,6 +78222,7 @@
 0.0.0.0 notice.hoopladigital.com
 0.0.0.0 notice.iqiyi.com
 0.0.0.0 notice.metrobyt-mobile.com
+0.0.0.0 notice.sp-prod.net
 0.0.0.0 notice.t-mobile.com
 0.0.0.0 notice.uchome.manyou.com
 0.0.0.0 noticeclockdroop.com
@@ -78856,6 +78946,7 @@
 0.0.0.0 nxiybblfblloz.online
 0.0.0.0 nxmpmugazsghw.website
 0.0.0.0 nxmrwntbgqlynn.com
+0.0.0.0 nxmsiuptjboqj.space
 0.0.0.0 nxnbbfauhbhbzn.com
 0.0.0.0 nxnjw.com
 0.0.0.0 nxnszu.ettoday.net
@@ -79749,6 +79840,7 @@
 0.0.0.0 oguaumtdjyqoe.online
 0.0.0.0 ogury.co
 0.0.0.0 ogury.com
+0.0.0.0 ogury.mgr.consensu.org
 0.0.0.0 ogvaqxjzfm-n.top
 0.0.0.0 ogvdmvxwajdn.com
 0.0.0.0 ogvwbovkgwbn.top
@@ -81027,6 +81119,7 @@
 0.0.0.0 opt8.co
 0.0.0.0 optable.co
 0.0.0.0 optad360.io
+0.0.0.0 optad360.mgr.consensu.org
 0.0.0.0 optad360.net
 0.0.0.0 optaim.com
 0.0.0.0 optanon.blob.core.windows.net
@@ -83466,6 +83559,7 @@
 0.0.0.0 pdavbtkidyyra.click
 0.0.0.0 pdbfqinwkt.com
 0.0.0.0 pdbu.net
+0.0.0.0 pdcc.gdpr.es
 0.0.0.0 pdf.didgigo.com
 0.0.0.0 pdfexpert.cc
 0.0.0.0 pdfolnydwrxyp.com
@@ -86635,10 +86729,12 @@
 0.0.0.0 pritesol.com
 0.0.0.0 pritheeemulant.cfd
 0.0.0.0 priustidley.shop
+0.0.0.0 privacidade.api.milvus.com.br
 0.0.0.0 privacy-api.9gag.com
 0.0.0.0 privacy-cdn.sixfifty.com
 0.0.0.0 privacy-center.org
 0.0.0.0 privacy-policy.truste.com
+0.0.0.0 privacy-policy.u-lab.nl
 0.0.0.0 privacy-sandbox.appsflyersdk.com
 0.0.0.0 privacy.claytonhomes.com
 0.0.0.0 privacy.clion.agency
@@ -86749,6 +86845,7 @@
 0.0.0.0 processusmetier.ricoh.fr
 0.0.0.0 proclamationromp.com
 0.0.0.0 proclivitysystems.com
+0.0.0.0 procookie.by.nf
 0.0.0.0 procroanalytics.com
 0.0.0.0 procuratio.nu
 0.0.0.0 procuredsheet.com
@@ -89896,6 +89993,7 @@
 0.0.0.0 qwrwhosailedbe.info
 0.0.0.0 qwswpauj.xyz
 0.0.0.0 qwtag.com
+0.0.0.0 qwtcmhgblnfeu.site
 0.0.0.0 qwtcmmvrjwujs.net
 0.0.0.0 qwti.cn
 0.0.0.0 qwuanvab.com
@@ -90688,6 +90786,7 @@
 0.0.0.0 rcilgeill.com
 0.0.0.0 rcinksfpvdfgb.store
 0.0.0.0 rciokmwkjiwuw.store
+0.0.0.0 rcjrvsxcsgdpx.site
 0.0.0.0 rckvklcpibmdz.online
 0.0.0.0 rclamerouts.shop
 0.0.0.0 rcm.shinobi.jp
@@ -96809,6 +96908,7 @@
 0.0.0.0 sdd.dzsc.com
 0.0.0.0 sdd.hi1718.com
 0.0.0.0 sddan.com
+0.0.0.0 sddan.mgr.consensu.org
 0.0.0.0 sddsxniaxkygh.online
 0.0.0.0 sdefm2ikfmn2i34n2.ser023.com
 0.0.0.0 sdegwynml.bmaci.me
@@ -98704,6 +98804,7 @@
 0.0.0.0 shinysave.com
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
+0.0.0.0 shinystat.mgr.consensu.org
 0.0.0.0 shiphootaich.net
 0.0.0.0 shipin.tingyun.com
 0.0.0.0 shipmenthow.com
@@ -99761,6 +99862,7 @@
 0.0.0.0 slog.sina.cn
 0.0.0.0 slog.sina.com.cn
 0.0.0.0 slogantrend.de
+0.0.0.0 sloggertawpy.com
 0.0.0.0 slojzlqjvitwt.website
 0.0.0.0 slonlyuse.shop
 0.0.0.0 sloourtica.life
@@ -103123,6 +103225,7 @@
 0.0.0.0 sngapm.qq.com
 0.0.0.0 sngmta.qq.com
 0.0.0.0 sni-dat.com
+0.0.0.0 snickers44.com
 0.0.0.0 snickforfeit.com
 0.0.0.0 snieshurdies.life
 0.0.0.0 sniffer.nitro-production.otto.boreus.de
@@ -106140,6 +106243,7 @@
 0.0.0.0 static.chaoticinteractions.com
 0.0.0.0 static.childrenan-bid.com
 0.0.0.0 static.clears-bid.com
+0.0.0.0 static.clickskeks.at
 0.0.0.0 static.consulcesi.it
 0.0.0.0 static.content-sync.xyz
 0.0.0.0 static.contentsrch.com
@@ -109902,6 +110006,7 @@
 0.0.0.0 tag.elevaate.io
 0.0.0.0 tag.escalated.io
 0.0.0.0 tag.flagship.io
+0.0.0.0 tag.goadopt.io
 0.0.0.0 tag.goldenbees.fr
 0.0.0.0 tag.havasedge.com
 0.0.0.0 tag.imagino.com
@@ -122893,6 +122998,7 @@
 0.0.0.0 waqwcbnbbpliz.online
 0.0.0.0 warbler.resumebuilder.dev
 0.0.0.0 warbler.todoscout.com
+0.0.0.0 wardersmonkess.shop
 0.0.0.0 wardmanensiled.life
 0.0.0.0 wardroplet.world
 0.0.0.0 waredgondi.cyou
@@ -123471,6 +123577,7 @@
 0.0.0.0 web8.perkinelmer.com
 0.0.0.0 webads.co.nz
 0.0.0.0 webads.media
+0.0.0.0 webads.mgr.consensu.org
 0.0.0.0 webads.nl
 0.0.0.0 webadserver.net
 0.0.0.0 webair.com
@@ -123499,6 +123606,8 @@
 0.0.0.0 webbed-leadership.com
 0.0.0.0 webbedfunding.com
 0.0.0.0 webc2s.pubgw.yahoo.com
+0.0.0.0 webcache-eu.datareporter.eu
+0.0.0.0 webcache.datareporter.eu
 0.0.0.0 webcampromo.com
 0.0.0.0 webcampromotions.com
 0.0.0.0 webcash.nl
@@ -124064,6 +124173,7 @@
 0.0.0.0 whaleslightestimposter.com
 0.0.0.0 whammedknavess.top
 0.0.0.0 whampamp.com
+0.0.0.0 wharrownecia.com
 0.0.0.0 whasewasabi.qpon
 0.0.0.0 whataboutnews.com
 0.0.0.0 whatfinger.com
@@ -124368,6 +124478,7 @@
 0.0.0.0 widgets.guppy.live
 0.0.0.0 widgets.itunes.apple.com
 0.0.0.0 widgets.jutarnji.hr
+0.0.0.0 widgets.legalmonster.com
 0.0.0.0 widgets.lendingtree.com
 0.0.0.0 widgets.monito.com
 0.0.0.0 widgets.oddschecker.com
@@ -125200,6 +125311,8 @@
 0.0.0.0 wpjalkjzkceh.com
 0.0.0.0 wpjhwhtgcyzep.site
 0.0.0.0 wpjplnykjopdp.online
+0.0.0.0 wpjslib-chunk-consent-form.js
+0.0.0.0 wpjslib-chunk-notification.js
 0.0.0.0 wpjugqasgblow.space
 0.0.0.0 wpkfti.1300k.com
 0.0.0.0 wpmpdpovgmnru.website
@@ -128934,6 +129047,7 @@
 0.0.0.0 yizghfwqrbhgy.space
 0.0.0.0 yizhenya.com
 0.0.0.0 yizhongyi.info
+0.0.0.0 yizj5fcwaj.com
 0.0.0.0 yizlda.crocs.co.uk
 0.0.0.0 yj101.nkfkm.cn
 0.0.0.0 yj103.llroax.cn
@@ -131022,6 +131136,7 @@
 0.0.0.0 zstcyektvaoug.online
 0.0.0.0 zswhcsfww.mobi
 0.0.0.0 zsxpx.com
+0.0.0.0 zsy10161yok.com
 0.0.0.0 zszgjiejuw.mobi
 0.0.0.0 zszhfffyd.ru
 0.0.0.0 zszhln.xyz

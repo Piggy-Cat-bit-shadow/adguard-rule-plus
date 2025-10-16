@@ -1,5 +1,6 @@
 -doubleclick.js
 -doubleclick.min.js
+-gdpr-min.js
 -normal-lq.zijieapi.com
 0-02.net
 0.myikas.com
@@ -14576,6 +14577,7 @@ api.blackcrow.ai
 api.bluerunningshadow.com
 api.boclinkads.com
 api.branch.io
+api.brookiebot.com
 api.brs.intl.miui.com
 api.bs.zui.com
 api.bugly.qq.com
@@ -14592,6 +14594,8 @@ api.cloudmobi.net
 api.cmt.mob.com
 api.cn.miaozhen.com
 api.collect.data.intl.miui.com
+api.cookielaw-script.it
+api.cookielaw.eu
 api.coolguang.com
 api.country.is
 api.csxsyp.cn
@@ -15239,6 +15243,7 @@ app.enable.atmel.com
 app.engineering.sae.org
 app.entertainment.comcast-spectacor.com
 app.entwickler.de
+app.eprivacy-keeper.eu
 app.etc.se
 app.etcel.se
 app.evntly.com
@@ -21605,6 +21610,7 @@ bootingunpickedusable.com
 bootpreload.uve.weibo.com
 bootrealtime.uve.weibo.com
 bootscritp.com
+bootstrap-cookie-consent.js
 bootstrap-framework.org
 bootstraplugin.com
 bootstron.com
@@ -22363,6 +22369,7 @@ broworkers5s.com
 browse-boost.com
 browsecoherentunrefined.com
 browsekeeper.com
+browser-consent-front.coco.s-cloud.fi
 browser-intake-datadoghq.com
 browser-intake-datadoghq.eu
 browser-statistik.de
@@ -22455,6 +22462,7 @@ brzjthsubtlwj.site
 brzvtueeyyqdo.space
 bs-adaptive.pull.yximgs.com
 bs-adserver.b-cdn.net
+bs-cookie.staging.springbok.agency
 bs-pro-origin-pull.kwai.net.iberostar.com
 bs.5442.com
 bs.csshq.com.cn
@@ -23657,6 +23665,7 @@ cache.api-zdj.com
 cache.betweendigital.com
 cache.celtra.com
 cache.cnzz.com
+cache.consentframework.com
 cache.datamart.windows.com
 cache.gaode.com
 cache.myth.dev
@@ -24482,6 +24491,7 @@ cc.anytrack.de
 cc.calltracking.ru
 cc.conforama.es
 cc.conforama.pt
+cc.controlcookies.com
 cc.dace.hupu.com
 cc.dalten.cz
 cc.diewebsitemacherei.de
@@ -24562,9 +24572,12 @@ cclibraries-defaults-cdn.adobe.com
 cclimif.top
 cclink.carfax.com
 ccluukrajdnyj.space
+ccm.npo.nl
 ccm1.dlr.de
 ccm19.de
+ccm19.dsg-schweiz.ch
 ccm19.mindpark.at
+ccm19.vucx.de
 ccm19boros.de
 ccmd.coveredca.com
 ccmiocw.com
@@ -24766,6 +24779,7 @@ cdn.comedia.coccoc.com
 cdn.conservativestar.com
 cdn.cooguo.com
 cdn.cookie.pii.ai
+cdn.cookiecode.nl
 cdn.cpex.cz
 cdn.creative-bars1.com
 cdn.creative.medialytics.com
@@ -24859,6 +24873,7 @@ cdn.oas-c17.adnxs.com
 cdn.oas-eu1.adnxs.com
 cdn.odoscope.cloud
 cdn.oneway.mobi
+cdn.opencmp.net
 cdn.optaim.com
 cdn.optmn.cloud
 cdn.optoutadvertising.com
@@ -24880,6 +24895,7 @@ cdn.qgr.ph
 cdn.qgraph.io
 cdn.ravm.tv
 cdn.read.html5.qq.com
+cdn.realpeoplemedia.co.uk
 cdn.responsiq.com
 cdn.revive-adserver.net
 cdn.reviveservers.com
@@ -24911,10 +24927,12 @@ cdn.tianmidian.com
 cdn.tinglian.com
 cdn.track.olx.com.br
 cdn.trafficforce.com
+cdn.truendo.com
 cdn.uaa010.com
 cdn.unibotscdn.com
 cdn.unityads.unity3d.com
 cdn.usefathom.com
+cdn.userdatatrust.com
 cdn.vamaker.com
 cdn.viglink.com
 cdn.viowrel.com
@@ -24991,6 +25009,7 @@ cdnativ.com
 cdnbit.com
 cdnboostcache.com
 cdncloud.asia
+cdncmp.richaudience.com
 cdnfimgs.com
 cdnflex.me
 cdnfreemalva.com
@@ -25842,6 +25861,7 @@ chocolatine.apexlegendsstatus.com
 choconart.com
 choice.microsoft.com
 choice.microsoft.com.nsatc.net
+choices.consentframework.com
 choices.truste.com
 choirssniper.qpon
 chokcloyne.shop
@@ -27200,9 +27220,12 @@ cmnfcgxcybuij.store
 cmon.congress.gov
 cmonitor.iqiyi.com
 cmop.mgtv.com
+cmp-loader.choice.faktor.io
 cmp-static.nature.com
 cmp.cdn.thesun.co.uk
 cmp.cdn.thesun.ie
+cmp.cdntrf.com
+cmp.cls.pm
 cmp.computerworld.pl
 cmp.courrierinternational.com
 cmp.datasign.co
@@ -27222,12 +27245,16 @@ cmp.inmobi.com
 cmp.lavie.fr
 cmp.lemonde.fr
 cmp.lepoint.fr
+cmp.md-nx.com
+cmp.mediavine.com
 cmp.meteored.com
 cmp.nature.com
 cmp.netzwelt.de
 cmp.nouvelobs.com
 cmp.onepeloton.com
+cmp.optad360.io
 cmp.osano.com
+cmp.pafo.fairbung.com
 cmp.parkers.co.uk
 cmp.pcwelt.de
 cmp.pcworld.pl
@@ -27630,6 +27657,7 @@ cohereproceedingsspark.com
 cohesionapps.com
 cohogsflyball.shop
 cohostsguilfat.com
+cohthafjmvx.com
 cohtsfkwaa.com
 coifedseemed.life
 coifstarheel.shop
@@ -28333,6 +28361,7 @@ connect.compellent.com
 connect.cont.hcahealthcare.com
 connect.content-hub.netapp.com
 connect.customers.netapp.com
+connect.danone.es
 connect.dcblox.com
 connect.dexterchaney.com
 connect.digi.com
@@ -28478,12 +28507,16 @@ consensu.infor.pl
 consensu.io
 consensu.org
 consensusarticles.com
+consent-manager.confirmic.com
+consent-manager.metomic.io
 consent-manager.thenextweb.com
+consent-notice.magix.com
 consent-wrapper.jameda.de
 consent.23g.io
 consent.berliner-kurier.de
 consent.canalboat.co.uk
 consent.clientemais.paodeacucar.com
+consent.comply-app.com
 consent.dadoslegais.com
 consent.dermogrup.com
 consent.digiapi.com
@@ -28498,6 +28531,7 @@ consent.online.paodeacucar.com
 consent.pdf24.org
 consent.prismamedia.com
 consent.prointernet.com
+consent.scm-verlagsgruppe.de
 consent.shutterfly.com
 consent.standardadmin.org
 consent.stuff.tv
@@ -28505,6 +28539,7 @@ consent.t-mobile.cz
 consent.thecountrysmallholder.com
 consent.thegreatoutdoorsmag.com
 consent.themeteocompany.com
+consent.theneweuropean.co.uk
 consent.triad.sk
 consent.truste.com
 consent.werner-mertz.de
@@ -28515,6 +28550,7 @@ consentframework.com
 consentik.com
 consentmanager.net
 consentmo-geo.com
+consentserve.mgr.consensu.org
 consenttool.haendlerbund.de
 consequentlyvisithector.com
 conservation277.fun
@@ -28866,14 +28902,18 @@ cookedtower.pro
 cookeryshed.com
 cookevegas.com
 cookie-accept.com
+cookie-bar.salessquad.co.uk
+cookie-consent.es5.min.js
 cookie-consent.etisalat.ae
 cookie-consent.festo.com
 cookie-guard-erdee.ey.r.appspot.com
 cookie-law-enforcement-qq.xyz
 cookie-lista.cz
 cookie-script.com
+cookie-use-policy.js
 cookie.aerostatonet.it
 cookie.amerigas.com
+cookie.consent.is
 cookie.consents.app
 cookie.cynch.com
 cookie.gazeta.pl
@@ -28885,35 +28925,51 @@ cookie.support
 cookie.sync.usonar.jp
 cookie.vrt.be
 cookie.wieni.be
+cookie_acceptance_modal.js
+cookie_choices.min.js
+cookie_law.js
+cookie_meldung.js
 cookieapi.incomit.dk
 cookieapi2.incomit.dk
 cookieassistant.com
 cookieban.com
 cookiebanner.gepruefter-webshop.de
+cookiebanner.min.js
+cookiebar-init.js
 cookiebot.com
 cookiebot.eu
 cookiebot.inkarnate.com
 cookiebox.ro
 cookiechoices.org
+cookieconsent.blob.core.windows.net
 cookieconsent.com
 cookieconsent.dfikir.com
+cookieconsent.syreta.com
+cookieconsentnotice.js
 cookiecontrol.bleau.dk
+cookiedisclaimer.js
 cookiefirst.com
 cookieform.pl
 cookiehub.eu
+cookieinfo.js
 cookieinformation.com
 cookieinfoscript.com
 cookiejar.atea.no
 cookielab.dk
+cookielaw.emea.fcagroup.com
 cookielawblog.wordpress.com
+cookielawscript.js
 cookieless-data.com
 cookiemanager.onm.de
 cookiemanager1.contentforces.com
 cookiemapping.cn.miaozhen.com
 cookiemapping.wrating.com
 cookiemon-analytics.azurewebsites.net
+cookiemon.atcom.gr
 cookiemonster.is
+cookiepolicy-client.js
 cookiepop.app
+cookieprivacygenerator.js
 cookieq.com
 cookiereports.com
 cookierulez.sqrt64.it
@@ -28921,6 +28977,7 @@ cookies-adobe.kbc.be
 cookies-sfs.siemens.com
 cookies-spravne.cz
 cookies.ae-webdesign.com
+cookies.algo.at
 cookies.bakehouse.at
 cookies.cmpnet.com
 cookies.doutoresdaweb.com.br
@@ -28951,6 +29008,7 @@ cookies.tanke-guenstig.de
 cookies.teraz.sk
 cookies.unidadeditorial.es
 cookies.wpcarey.com
+cookiesamtykke.js
 cookiescript.cloud.provincia.tn.it
 cookiescript.info
 cookiesmaster.pl
@@ -28960,6 +29018,10 @@ cookiesuit.com
 cookietagmanager.net
 cookietracking.eatonpowersource.com
 cookietractor.com
+cookiewall.es5.min.js
+cookiewarning.js
+cookiewarning2.js
+cookiewarning4.js
 cookiewidget.eu
 cookiex.ngd.yahoo.com
 cooking-app.lkk.com
@@ -29978,6 +30040,7 @@ criteo.net
 criticaltriggerweather.com
 critictruck.com
 crittereasilyhangover.com
+crizzelbelout.com
 crjpgate.com
 crjpingate.com
 crjshop.com
@@ -32646,6 +32709,7 @@ dampedvisored.com
 dampratio.pro
 damselfly.vegenook.com
 damuzhi118.com
+dan.mgr.consensu.org
 dana8herb.com
 danaidehomes.com
 danaitebijous.world
@@ -34481,6 +34545,7 @@ detectorpre.com
 detentsclonks.com
 deteql.net
 deteriorateensuedlaptop.com
+determinator.service-cmp.com
 determined-tennis.pro
 determinedangle.com
 determinedsock.com
@@ -35087,6 +35152,7 @@ digitalunion.cn
 digitalworkplace.ricoh.fr
 digithalo.com
 digitru.st
+digitrust.mgr.consensu.org
 dignityhourmulticultural.com
 dignow.org
 digoxinbluming.digital
@@ -36270,6 +36336,7 @@ dogeyintro.cyou
 dogfalcons.com
 dogfallkeach.qpon
 doggieshome.com
+doggrellowder.com
 doghalf.com
 dogheegnaunim.net
 doglegtoeing.shop
@@ -36791,6 +36858,7 @@ dqicwrwciokpigi.com
 dqif5bl25s0bf.cloudfront.net
 dqjojx.xyz
 dqjrxj.icu
+dqnajb.icu
 dqntra.home-to-go.ca
 dqq.lnfund.org.cn
 dqqdbvsqatomy.space
@@ -41269,6 +41337,7 @@ etahub.com
 etalageunwept.qpon
 etallkiq.com
 etapeguimpe.shop
+etarget.mgr.consensu.org
 etargetnet.com
 etavlufwkgqynwx.com
 etbh.cn
@@ -41410,6 +41479,7 @@ eu.usefathom.com
 eu.viatrisconnect.com
 eu.vortex-win.data.microsft.com
 eu.vortex-win.data.microsoft.com
+eu_cookie_banner.js
 euadoroisso.com.br
 euads-o.api.leiniao.com
 euadsapi.manhuaren.com
@@ -41497,12 +41567,14 @@ euphoric-nature.com
 euphuesmasses.com
 eupornstar.info
 euqsfp.belluna.jp
+eurail_responsive_law_cookie_banner.js
 eureka-app.eurekaplatform.org
 eurekster.com
 euresdw.top
 euro-pr.eu
 euro4ads.de
 euroads.dk
+eurocookie.galilcloud.wixapps.net
 eurocounter.com
 eurodomo.cn
 eurogamer-uk.eurogamer.net
@@ -45518,6 +45590,7 @@ functionssubqueries.com
 functorsarigue.life
 fund.sina.com.cn
 fundatingquest.fun
+fundingchoices.google.com
 fundingchoicesmessages.google.com
 fundingsidenote.com
 fundraising.centuryresources.com
@@ -46540,6 +46613,7 @@ gdoibwfvjqf.com
 gdonqrdtzhvfq.space
 gdphhl.elite-auto.fr
 gdpj8lm2t.com
+gdpr-banner.awsmpsa.com
 gdpr-legal-cookie.beeclever.app
 gdpr-legal-cookie.com
 gdpr-service.herokuapp.com
@@ -46669,6 +46743,7 @@ gemfowls.com
 gemini.yahoo.com
 geminibugs.com
 gemius.hu
+gemius.mgr.consensu.org
 gemius.pl
 gemjtemdi.com
 gemlikevarios.com
@@ -51360,6 +51435,7 @@ hhowyijfffxry.online
 hhppyt.com
 hhppzkhurf.com
 hhqda.pop.t5yx.cn
+hhr3ybjsoy.com
 hhsp2.com
 hht8m6w8mnug.quine.sh
 hhttm.top
@@ -54197,6 +54273,7 @@ iknwqdpo.xyz
 ikppduisfudho.online
 ikqgzcculojvu.space
 ikqhdccrihdyr.online
+ikqyazeadzqvo.space
 iktytiwqpmmur.com
 iktzrzjpugczl.website
 ikuailian.com
@@ -56372,6 +56449,7 @@ inform.janssenpro.eu
 inform.liilix.com
 inform.milestonegroup.com
 inform.milestonegroup.com.au
+informacja_cookies.js
 informalbook.com
 informalsection.com
 informatics.filamentcolors.xyz
@@ -56395,6 +56473,7 @@ informpay.com
 informsuppercocktail.com
 informvisitors.com
 informz.net
+inforpl.mgr.consensu.org
 infos-experts.adp.com
 infos.anz-originator.com.au
 infos.anz.com
@@ -59266,6 +59345,7 @@ joqawz.snipes.nl
 joqowqyaarlrz.top
 joqowqyaayvwl.top
 joqowqymkrbrq.top
+joqowqymkrbww.top
 joqowqymkrywy.top
 joramsvenosal.digital
 jordan.qunis.ru
@@ -59429,7 +59509,12 @@ jqtqoknktzy.space
 jqtree.com
 jqttlnzaudopg.website
 jquery-cdn.download
+jquery-easy-eu-cookie-law.js
+jquery.cookie.policy.min.js
+jquery.cookiepol.js
 jquery.envi-met.com.cn
+jquery.eu-cookie-consent.min.js
+jquery.smartcookie.min.js
 jqueryoi.com
 jqueryserve.org
 jqueryserver.com
@@ -59555,6 +59640,7 @@ js.cmoa.pro
 js.cncrk.com
 js.cnmo.com
 js.cnscdj.com
+js.cookietagmanager.net
 js.ctags.cn
 js.daxueshengqiandai.com
 js.dhsz.cn
@@ -66813,6 +66899,7 @@ lvoaglwvomnma.top
 lvojjayaaokbq.top
 lvojjayaaoqym.top
 lvojjaymeoyyk.top
+lvojjaymerabr.top
 lvqg.cn
 lvqo.cn
 lvrq.cn
@@ -76415,6 +76502,7 @@ nanigans.com
 nankuan.xin
 nannieslamaic.com
 nannyirrationalacquainted.com
+nanogdpr.min.js
 nanoidcharas.click
 nanosecnobbily.click
 nanostats.nanopress.it
@@ -76704,6 +76792,7 @@ ndicptuzmmnkbs.com
 ndingcouncerne.org
 ndirection.kr
 nditingdecord.com
+ndja.cn
 ndlesexwrecko.org
 ndlvihqwpaaup.space
 ndlwtl.icu
@@ -78132,6 +78221,7 @@ notice.game.xiaomi.com
 notice.hoopladigital.com
 notice.iqiyi.com
 notice.metrobyt-mobile.com
+notice.sp-prod.net
 notice.t-mobile.com
 notice.uchome.manyou.com
 noticeclockdroop.com
@@ -78855,6 +78945,7 @@ nxivxtps.com
 nxiybblfblloz.online
 nxmpmugazsghw.website
 nxmrwntbgqlynn.com
+nxmsiuptjboqj.space
 nxnbbfauhbhbzn.com
 nxnjw.com
 nxnszu.ettoday.net
@@ -79748,6 +79839,7 @@ ogtsesfvshtsk.website
 oguaumtdjyqoe.online
 ogury.co
 ogury.com
+ogury.mgr.consensu.org
 ogvaqxjzfm-n.top
 ogvdmvxwajdn.com
 ogvwbovkgwbn.top
@@ -81026,6 +81118,7 @@ opt.ximad.com
 opt8.co
 optable.co
 optad360.io
+optad360.mgr.consensu.org
 optad360.net
 optaim.com
 optanon.blob.core.windows.net
@@ -83465,6 +83558,7 @@ pdalnkishcfkgs.com
 pdavbtkidyyra.click
 pdbfqinwkt.com
 pdbu.net
+pdcc.gdpr.es
 pdf.didgigo.com
 pdfexpert.cc
 pdfolnydwrxyp.com
@@ -86634,10 +86728,12 @@ pritchfesta.world
 pritesol.com
 pritheeemulant.cfd
 priustidley.shop
+privacidade.api.milvus.com.br
 privacy-api.9gag.com
 privacy-cdn.sixfifty.com
 privacy-center.org
 privacy-policy.truste.com
+privacy-policy.u-lab.nl
 privacy-sandbox.appsflyersdk.com
 privacy.claytonhomes.com
 privacy.clion.agency
@@ -86748,6 +86844,7 @@ processsky.com
 processusmetier.ricoh.fr
 proclamationromp.com
 proclivitysystems.com
+procookie.by.nf
 procroanalytics.com
 procuratio.nu
 procuredsheet.com
@@ -89895,6 +89992,7 @@ qwrwawwmbllvb.top
 qwrwhosailedbe.info
 qwswpauj.xyz
 qwtag.com
+qwtcmhgblnfeu.site
 qwtcmmvrjwujs.net
 qwti.cn
 qwuanvab.com
@@ -90687,6 +90785,7 @@ rchs.1mb034.cn
 rcilgeill.com
 rcinksfpvdfgb.store
 rciokmwkjiwuw.store
+rcjrvsxcsgdpx.site
 rckvklcpibmdz.online
 rclamerouts.shop
 rcm.shinobi.jp
@@ -96808,6 +96907,7 @@ sdcuo.com
 sdd.dzsc.com
 sdd.hi1718.com
 sddan.com
+sddan.mgr.consensu.org
 sddsxniaxkygh.online
 sdefm2ikfmn2i34n2.ser023.com
 sdegwynml.bmaci.me
@@ -98703,6 +98803,7 @@ shinypond.com
 shinysave.com
 shinystat.com
 shinystat.it
+shinystat.mgr.consensu.org
 shiphootaich.net
 shipin.tingyun.com
 shipmenthow.com
@@ -99760,6 +99861,7 @@ sloeri.com
 slog.sina.cn
 slog.sina.com.cn
 slogantrend.de
+sloggertawpy.com
 slojzlqjvitwt.website
 slonlyuse.shop
 sloourtica.life
@@ -103122,6 +103224,7 @@ snehkjlheanqj.website
 sngapm.qq.com
 sngmta.qq.com
 sni-dat.com
+snickers44.com
 snickforfeit.com
 snieshurdies.life
 sniffer.nitro-production.otto.boreus.de
@@ -106139,6 +106242,7 @@ static.ceramicartsnetwork.org
 static.chaoticinteractions.com
 static.childrenan-bid.com
 static.clears-bid.com
+static.clickskeks.at
 static.consulcesi.it
 static.content-sync.xyz
 static.contentsrch.com
@@ -109901,6 +110005,7 @@ tag.eisa.mercari.com
 tag.elevaate.io
 tag.escalated.io
 tag.flagship.io
+tag.goadopt.io
 tag.goldenbees.fr
 tag.havasedge.com
 tag.imagino.com
@@ -122892,6 +122997,7 @@ waqool.com
 waqwcbnbbpliz.online
 warbler.resumebuilder.dev
 warbler.todoscout.com
+wardersmonkess.shop
 wardmanensiled.life
 wardroplet.world
 waredgondi.cyou
@@ -123470,6 +123576,7 @@ web8.net
 web8.perkinelmer.com
 webads.co.nz
 webads.media
+webads.mgr.consensu.org
 webads.nl
 webadserver.net
 webair.com
@@ -123498,6 +123605,8 @@ webazilla.com
 webbed-leadership.com
 webbedfunding.com
 webc2s.pubgw.yahoo.com
+webcache-eu.datareporter.eu
+webcache.datareporter.eu
 webcampromo.com
 webcampromotions.com
 webcash.nl
@@ -124063,6 +124172,7 @@ whaleplayful.com
 whaleslightestimposter.com
 whammedknavess.top
 whampamp.com
+wharrownecia.com
 whasewasabi.qpon
 whataboutnews.com
 whatfinger.com
@@ -124367,6 +124477,7 @@ widgets.getpocket.com
 widgets.guppy.live
 widgets.itunes.apple.com
 widgets.jutarnji.hr
+widgets.legalmonster.com
 widgets.lendingtree.com
 widgets.monito.com
 widgets.oddschecker.com
@@ -125199,6 +125310,8 @@ wpizqi.icu
 wpjalkjzkceh.com
 wpjhwhtgcyzep.site
 wpjplnykjopdp.online
+wpjslib-chunk-consent-form.js
+wpjslib-chunk-notification.js
 wpjugqasgblow.space
 wpkfti.1300k.com
 wpmpdpovgmnru.website
@@ -128933,6 +129046,7 @@ yiyuantian.com
 yizghfwqrbhgy.space
 yizhenya.com
 yizhongyi.info
+yizj5fcwaj.com
 yizlda.crocs.co.uk
 yj101.nkfkm.cn
 yj103.llroax.cn
@@ -131021,6 +131135,7 @@ zst.jzntxs.com
 zstcyektvaoug.online
 zswhcsfww.mobi
 zsxpx.com
+zsy10161yok.com
 zszgjiejuw.mobi
 zszhfffyd.ru
 zszhln.xyz
