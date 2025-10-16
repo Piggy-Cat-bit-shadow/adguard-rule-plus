@@ -15,3 +15,5 @@ https://raw.githubusercontent.com/Piggy-Cat-bit-shadow/adguard-rule-merge/main/c
 https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt
 https://small.oisd.nl
 https://www.i-dont-care-about-cookies.eu/abp/
+https://filters.adtidy.org/android/filters/11_optimized.txt
+https://filters.adtidy.org/android/filters/2_optimized.txt
