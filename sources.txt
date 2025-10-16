@@ -17,4 +17,3 @@ https://small.oisd.nl
 https://www.i-dont-care-about-cookies.eu/abp/
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext
 https://filters.adtidy.org/android/filters/14_optimized.txt
-https://filters.adtidy.org/android/filters/3_optimized.txt
