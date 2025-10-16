@@ -21,3 +21,4 @@ https://filters.adtidy.org/android/filters/2_optimized.txt
 https://filters.adtidy.org/android/filters/11_optimized.txt
 https://easylist-downloads.adblockplus.org/easylist.txt
 https://easylist-downloads.adblockplus.org/easylistchina.txt
+https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
