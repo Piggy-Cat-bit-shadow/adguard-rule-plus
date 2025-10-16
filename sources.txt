@@ -14,3 +14,4 @@ https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt
 https://raw.githubusercontent.com/Piggy-Cat-bit-shadow/adguard-rule-merge/main/custom_whitelist.txt
 https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt
 https://small.oisd.nl
+https://www.i-dont-care-about-cookies.eu/abp/
