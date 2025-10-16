@@ -19,3 +19,5 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=pl
 https://filters.adtidy.org/android/filters/14_optimized.txt
 https://filters.adtidy.org/android/filters/2_optimized.txt
 https://filters.adtidy.org/android/filters/11_optimized.txt
+https://easylist-downloads.adblockplus.org/easylist.txt
+https://easylist-downloads.adblockplus.org/easylistchina.txt
