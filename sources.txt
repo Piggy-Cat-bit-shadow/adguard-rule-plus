@@ -22,3 +22,4 @@ https://filters.adtidy.org/android/filters/19_optimized.txt
 https://filters.adtidy.org/android/filters/20_optimized.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext
 https://filters.adtidy.org/android/filters/3_optimized.txt
+https://filters.adtidy.org/android/filters/21_optimized.txt
