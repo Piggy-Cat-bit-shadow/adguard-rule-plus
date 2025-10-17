@@ -1,5 +1,5 @@
 ! Mobile-only Adblock list (no AGH/DNS rules)
-! Generated at: 2025-10-17 05:46:18 UTC
+! Generated at: 2025-10-17 05:51:02 UTC
 ! Sources:
 !  - https://anti-ad.net/adguard.txt
 !  - https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
