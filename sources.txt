@@ -13,13 +13,13 @@ https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.tx
 https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt
 https://raw.githubusercontent.com/Piggy-Cat-bit-shadow/adguard-rule-merge/main/custom_whitelist.txt
 https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt
-https://small.oisd.nl
-https://www.i-dont-care-about-cookies.eu/abp/
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext
-https://filters.adtidy.org/android/filters/14_optimized.txt
+# https://small.oisd.nl
+# https://www.i-dont-care-about-cookies.eu/abp/
+# https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext
+# https://filters.adtidy.org/android/filters/14_optimized.txt
 https://filters.adtidy.org/android/filters/2_optimized.txt
 https://filters.adtidy.org/android/filters/11_optimized.txt
 https://easylist-downloads.adblockplus.org/easylist.txt
 https://easylist-downloads.adblockplus.org/easylistchina.txt
-https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt
+# https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
+# https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt
