@@ -12,7 +12,6 @@ https://gcore.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/minority-mv.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt
 https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt
 https://raw.githubusercontent.com/Piggy-Cat-bit-shadow/adguard-rule-merge/main/custom_whitelist.txt
-https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt
 # https://small.oisd.nl
 # https://www.i-dont-care-about-cookies.eu/abp/
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext
